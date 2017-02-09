@@ -10,31 +10,31 @@ IACLangRead
 5.
 
 Agents
-1.Justin Leung
-2.Martin Turpin
+1. Justin Leung
+2. Martin Turpin
 3.
 4.
 5.
 
 ProbProg
 1. Moeza Merchant 
-2.
-3.
+2. Jatheesh Srikantharajah
+3. Matthew Moody
 4.
-5.
+5. Colin Whaley
 6.
 
 Memory
 1. Grace Sim
 2. (Jason) Dong Goo Lee
-3.
-4.
-5.
+3. Michalla-M. Traille
+4. Thiviyan Sithganesan
+5. Hanbin Go
 
 DeepConvNet
-1.Chris Malecki
-2.
-3.
-4.
-5.
-6.
+1. Chris Malecki
+2. Akshaya Suresh
+3. Caidence Paleske
+4. Winnie Tran
+5. Ross Weir
+6. Alefiya Jerwalla
